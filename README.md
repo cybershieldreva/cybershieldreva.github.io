@@ -10,7 +10,17 @@ WEB-CYBER SHIELD
 * AI Chart Bot will be ready on 29th, March, 2021
 * Manny more 
 ---------------------------------------------
-//* Tech Used *//
+The Teach key features that you need to know about our web application:
+
+•We built this platform for helping internet users measure the right things. Using CyberShield (web-app) with its lighter size ,Attractive and useful information Let us be vigilant about the existing cyber crimes in the world.
+
+•CyberShield (web-app) provides an excellent user experience.Appliction runs at the speed of 13kbs making it  usable as soon as possible.with this feature you can load  our pages   and access information  really quick .
+
+•People are not chained to desktops or laptops anymore. People rely on smart phones and tablets to help them navigate and record information . Not every bit of data is going to be observed from a place where you can use a laptop. Mobile lets our users record their reactions and information from anywhere.In order to make it responsive ,Our CyberShield (web-app) can be used in smart devices like smart watch,smart phones,smart displays etc.
+
+•Cybersecurity is concerned with protecting digital assets, networks, and computers from attack or unauthorized access of data.It converts data into actionable information with uncompromised security and strictly No Data Acquisition.
+
+//* Teach lang Used *//
 * HTML
 * CSS
 * JS
